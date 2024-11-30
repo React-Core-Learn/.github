@@ -1,12 +1,29 @@
-## Hi there 👋
+# React Core 학습하기
 
-<!--
+리액트의 동작 원리를 코드 레벨까지 이해하고, 바닐라 자바스크립트로 리액트 코어 구현하기 (feat.TypeScript)
 
-**Here are some ideas to get you started:**
+## 🚀 학습 목표
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+React의 내부 동작 원리를 깊이 이해하여, 프레임워크를 단순히 "사용"하는 것을 넘어 효율적으로 활용하고 문제를 해결할 수 있는 능력을 갖추자. 또한, 바닐라 자바스크립트를 사용해 React의 핵심 개념(예: Virtual DOM, 상태 관리, 컴포넌트 라이프사이클 등)을 직접 구현해 봄으로써, React의 작동 방식과 원리를 보다 실질적으로 체득하자.
+
+- 자바스크립트 객체지향과 함수형에 대한 이해
+- 브라우저 렌더링 과정 이해
+- 리액트의 탄생 배경(철학)과 컴포넌트 이해
+- class 컴포넌트와 function 컴포넌트에 대한 이해
+- 리액트 코어 이해
+  - Virtual DOM
+  - Diffing Algorithm:
+  - Reconciliation
+
+## ✨ 커리큘럼
+
+1. 웹 컴포넌트를 만들며, 컴포넌트 기반 개발(CDD)를 배워보자. (황준일님의 Web Component 아티클 학습)
+2. 상태관리를 어떤 식으로 만드는지에 대한 방법을 배우자. (황준일님의 상태관리 시스템 아티클 학습)
+3. Virtual DOM을 만드는 방법에 대해 배우자. (황준일님의 Virtual DOM 만들기 아티클 학습)
+4. React Hook 만드는 방법에 대해 배우자. (황준일님의 useState Hook 만들기)
+5. 바닐라 자바스크립트로 SPA 환경을 만들자.
+6. Babel을 사용해 나만의 미니멀한 리액트를 만들자. (Google Form 구현하기)
+7. [미정] Server Component 적용하여 SSR을 만들어보자.
+
+## ✅ 학습한 레포지토리
+
