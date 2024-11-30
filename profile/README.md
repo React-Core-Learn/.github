@@ -27,3 +27,13 @@ React의 내부 동작 원리를 깊이 이해하여, 프레임워크를 단순�
 
 ## ✅ 학습한 레포지토리
 
+## 👩🏻‍💻 참여자
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/D5ng"><img src="https://avatars.githubusercontent.com/u/121039744?v=4" width="300px;" alt=""/><br /><sub><b>FE 이동현</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/Seoin02"><img src="https://avatars.githubusercontent.com/u/144193370?v=4" width="300px;" alt=""/><br /><sub><b>FE 이서인</b></sub></a><br /></td>
+    </tr>
+  </tbody>
+</table>
